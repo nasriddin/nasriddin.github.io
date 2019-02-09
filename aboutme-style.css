@@ -1,0 +1,20 @@
+html,
+body{
+    background-color: #524b39;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+.title{
+    color: #419AB3;
+}
+strong{
+    color: #0e9c1c;
+}
+a{
+    color: red;
+}
+img{
+    width: 300px;
+}
