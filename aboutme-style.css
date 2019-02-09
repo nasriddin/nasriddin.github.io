@@ -18,3 +18,10 @@ a{
 img{
     width: 300px;
 }
+.my-photo{
+    margin-left: 70%;
+}
+.about-me{
+    position: absolute;
+    bottom: 50%;
+}
